@@ -13,7 +13,8 @@ Youtube Clone is an individual endeavor dedicated to crafting a streamlined rend
 2. Tailwind CSS: Employed to streamline the UI development process, ensuring a visually appealing and responsive design.
 3. Rapid API: Integrated for seamless data retrieval, enhancing the application with a diverse range of content.
 
-# Why This Tech Stack: The chosen technology stack is carefully curated to align with the project's goals. 
+# Why This Tech Stack: 
+The chosen technology stack is carefully curated to align with the project's goals. 
 1. React is selected for its versatility and efficiency in building engaging user interfaces.
 2.  Tailwind CSS is instrumental in crafting a visually appealing and responsive UI, while
 3.  Rapid API provided a convenient means to fetch diverse and dynamic data for the video-sharing platform.
